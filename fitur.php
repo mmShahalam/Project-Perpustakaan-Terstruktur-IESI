@@ -1,5 +1,6 @@
 <html>
     <body>
+    <h1>Perpustakaan Chicken Pok</h1>
     <?php
         include "cari.php";
         $fitur = $_GET['fitur'] ?? null;
